@@ -1,7 +1,7 @@
 //read_words.cpp
 #include "read_words.h"
 
-std::istream& read_hw(std::istream& in, std::vector<std::string>& words) {
+std::istream& read_words(std::istream& in, std::vector<std::string>& words) {
 	if (in) {
 		//이전 내용을 제거
 		words.clear();

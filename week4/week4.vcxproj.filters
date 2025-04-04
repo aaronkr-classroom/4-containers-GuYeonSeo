@@ -53,5 +53,8 @@
     <ClCompile Include="read_words.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="chp4_ex5_b.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
